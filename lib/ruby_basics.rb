@@ -9,5 +9,5 @@ def assign_variable(value)
 end
 
 def argue(argument)
-  "I'm write and you are wrong!"
+  "I'm right and you are wrong!"
 end
