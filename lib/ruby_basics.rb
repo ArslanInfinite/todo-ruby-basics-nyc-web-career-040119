@@ -13,5 +13,5 @@ def argue(argument)
 end
 
 def greeting(greeting, name)
-
+  "Nice"
 end
