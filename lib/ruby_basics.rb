@@ -11,3 +11,7 @@ end
 def argue(argument)
   "I'm right and you are wrong!"
 end
+
+def greeting(greeting, name)
+
+end
