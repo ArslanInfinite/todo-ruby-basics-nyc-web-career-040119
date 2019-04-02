@@ -4,6 +4,6 @@ def division(num1, num2)
   num1 / num2
 end
 
-def name(name)
-  #{"name"}
+def assign_variable(value)
+  
 end
